@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "British father and son, 9, killed in Australian mountain landslide",
+    "description": "Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries.",
+    "url": "http://www.bbc.co.uk/news/world-australia-60991775",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5552/production/_124024812_gettyimages-128251274.jpg",
+    "publishedAt": "2022-04-05T09:07:22.8674084Z",
+    "content": "Image source, Getty Images\r\nTwo members of a British family have died and two others are critically injured after a landslide in Australia.\r\nThe man, 49, and his nine-year-old son were killed by fall… [+2703 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Shanghai Covid lockdown extended to entire city",
+    "description": "China's financial hub is now subject to indefinite restrictions after Covid cases hit a new high.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-60994022",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/25BE/production/_124026690_hi075086329.jpg",
+    "publishedAt": "2022-04-05T08:52:22.0390647Z",
+    "content": "Chinese authorities have extended their lockdown of Shanghai to cover all its 25 million people after a fresh surge in Covid cases.\r\nUntil now, there had been separate measures for the eastern and we… [+1699 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Peru protesters burn toll booths amid police clashes",
+    "description": "Protests have taken place across Peru, as oil, gas and toll road prices rise.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-60993655",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1728E/production/_124026849_p0bzfsw6.jpg",
+    "publishedAt": "2022-04-05T08:37:27.3521022Z",
+    "content": "Protests have taken place across Peru, as oil, gas and toll road prices rise. \r\nOn Monday, a national strike took place in the country in response to inflation rising to a 26 year high. \r\nProtesters … [+255 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Timed Teaser: Who won the Grammy Awards record of the year?",
+    "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60982940",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CDE/production/_124001398_rodrindex.jpg",
+    "publishedAt": "2022-04-05T08:37:25.7431281Z",
+    "content": "Money, sex, privacy and power"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Stolen' Charles Darwin notebooks left on library floor in pink gift bag",
+    "description": "Two books owned by Charles Darwin are left outside Cambridge University library in a pink gift bag.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-60980288",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/128DF/production/_123999957_drjessicagardnerlooksattreeoflifesketch2.jpg",
+    "publishedAt": "2022-04-05T06:22:23.2436001Z",
+    "content": "By Rebecca JonesArts correspondent, BBC News\r\nImage source, Stuart Roberts/Cambridge University Library \r\nImage caption, Cambridge University librarian Dr Jessica Gardner was thrilled to have the boo… [+6058 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sri Lanka medical authorities declare health emergency as crisis worsens",
+    "description": "State healthcare facilities will only prioritise emergency and urgent care due to a lack of medicine.",
+    "url": "http://www.bbc.co.uk/news/world-asia-60978795",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A74/production/_124025272_c1b6f204-2c5a-4ea2-9a73-2bfec4110b53.jpg",
+    "publishedAt": "2022-04-05T04:52:20.0242818Z",
+    "content": "Image caption, Protesters have taken to the streets in Sri Lanka's cities calling for President Rajapaksa to resign over his government's financial handling\r\nSri Lanka's top medical body has declared… [+2538 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Britney Spears: Singer confirms she is writing new memoir",
+    "description": "The singer says the book will tackle painful past events she has \"never been able to express openly.\"",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-60991853",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60A6/production/_124024742_hi068330023.jpg",
+    "publishedAt": "2022-04-05T01:52:26.6178111Z",
+    "content": "Image source, Getty Images\r\nBritney Spears has confirmed that she is in the process of writing a book, confirming recent reports in US media that the star intended to pen a new tell-all memoir. \r\nSpe… [+1749 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Supreme Court: Senate panel deadlocks on Ketanji Brown Jackson",
+    "description": "Despite the procedural speed bump, Judge Ketanji Brown Jackson is expected to be confirmed this week.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60986427",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1426C/production/_124004528_gettyimages-1387315157.jpg",
+    "publishedAt": "2022-04-04T21:52:23.2284905Z",
+    "content": "Image source, Getty Images\r\nA US Senate panel has deadlocked in a vote to approve President Joe Biden's nominee for the Supreme Court, but she is likely to be confirmed anyway later this week.\r\nJudge… [+3372 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: International outrage grows over civilian killings in Bucha",
+    "description": "Joe Biden calls for Vladimir Putin to be tried for war crimes for atrocities in Ukraine.",
+    "url": "http://www.bbc.co.uk/news/world-europe-60990934",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D458/production/_124006345_mediaitem124023789.jpg",
+    "publishedAt": "2022-04-04T21:52:20.9614785Z",
+    "content": "Media caption, Watch: US seeks more sanctions on 'war criminal' Putin\r\nUS President Joe Biden has called for Russian President Vladimir Putin to be tried for war crimes as evidence emerges of atrocit… [+2998 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Village head and family killed by Russia - Ukraine",
+    "description": "The BBC sees further evidence of alleged atrocities in areas recently occupied by Russia.",
+    "url": "http://www.bbc.co.uk/news/world-europe-60989632",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8176/production/_124024133_ukrainefamily.jpg",
+    "publishedAt": "2022-04-04T20:07:23.5554551Z",
+    "content": "Image caption, Olha Sukhenko, her husband Igor and her son Oleksander are all said to have been killed\r\nRussian forces have killed a village head, her husband and her son, Ukrainian officials say. Th… [+3106 chars]"
+    }
+    ]
+    }
